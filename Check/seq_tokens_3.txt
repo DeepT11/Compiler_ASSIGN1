@@ -1,0 +1,102 @@
+label: pp1
+punctuation: :
+datatype: int
+ID: foo
+special symbol: (
+special symbol: )
+label: pp2
+punctuation: :
+special symbol: [
+label: pp3
+punctuation: :
+datatype: integer_4
+ID: a1
+punctuation: ,
+ID: a2
+punctuation: ,
+ID: -a3
+punctuation: ;
+label: pp4
+punctuation: :
+datatype: character_1
+ID: *1
+punctuation: ,
+ID: _24
+punctuation: ;
+label: pp5
+punctuation: :
+datatype: string
+ID: s
+operator: =
+punctuation: "
+constant: case 3\n
+punctuation: "
+punctuation: ;
+label: pp6
+punctuation: :
+reserved keyword: while
+special symbol: [
+ID: -a3
+reserved keyword: gt
+constant: 0
+special symbol: ]
+label: pp7
+special symbol:[
+label: pp8
+punctuation: :
+reserved keyword: in case that
+special symbol: [
+ID: a2
+reserved keyword: lt
+ID: a1
+special symbol: ]
+label: pp9
+punctuation: :
+special symbol: [
+label: pp10
+punctuation: :
+datatype : integer_4
+ID: x5
+operator: =
+ID: a1
+punctuation: ;
+label: pp11
+punctuation: :
+ID: a1
+operator: =
+ID: a2
+punctuation: ;
+label:  pp12
+punctuation: :
+ID: a2
+operator: =
+ID: x5
+punctuation: ;
+label: pp13
+punctuation: :
+special symbol: ]
+label: pp14
+punctuation: :
+ID: -a3
+operator: =
+ID: -a3
+operator: +
+ID: a1
+operator: *
+ID: a2
+punctuation: ;
+label: pp15
+punctuation: :
+special symbol: ]
+label: pp16
+punctuation: :
+reserved keyword: return
+ID: -a3
+punctuation: ;
+label: pp17
+punctuation: :
+special symbol: ]
+
+
+
+

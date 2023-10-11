@@ -1,0 +1,11 @@
+pp1 : null foo()
+pp2 :[
+pp3 : integer_4 _23 , /8 , +2 ;
+pp4 : character_1 *1 , #24 ;
+pp5 : string s = "case 1\n" ;
+pp6 : +2 = _ +2 + +2 / _23 - /8 ;
+pp7 : in case that [ /8 + _23 gt +2  and /8 - _23 lt +2]
+pp8 : jump to pp6 ;
+pp9 : otherwise
+pp10 : do [ +2 = /8 + _23 ; ]
+pp11 : ]

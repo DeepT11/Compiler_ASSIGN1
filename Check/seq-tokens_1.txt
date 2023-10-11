@@ -1,0 +1,83 @@
+label: pp1
+punctuation: :
+datatype: null
+ID: foo
+special symbol: (
+special symbol: )
+label: pp2
+punctuation: :
+special symbol: [
+label: pp3
+punctuation: :
+datatype: integer_4
+ID: _23
+punctuation: ,
+ID: /8
+punctuation: ,
+ID: +2
+punctuation: ;
+label: pp4
+punctuation: :
+datatype: character_1
+ID: *1
+punctuation: ,
+ID: #24
+punctuation: ;
+label: pp5
+punctuation: :
+datatype: string
+ID: s
+operator: =
+punctuation: "
+constant: case 1\n
+punctuation: "
+punctuation: ;
+label: pp6
+punctuation: :
+ID: +2
+operator: =
+operator: _
+ID: +2
+operator: +
+ID: +2
+operator: /
+ID: _23
+operator: -
+ID: /8
+punctuation: ;
+label: pp7
+punctuation: :
+reserved keyword: in case that
+special symbol: [
+ID: /8
+operator: +
+ID: _23
+reserved keyword: gt
+operator: +2
+reserved keyword: and
+ID: /8
+operator: -
+ID: _23
+reserved keyword: lt
+ID: +2
+special symbol: ]
+label: pp8
+punctuation: :
+reserved keyword: jump to
+label: pp6
+punctuation: ;
+label: pp9
+reserved keyword: otherwise
+label: pp10
+punctuation: :
+reserved keyword: do
+special symbol: [
+ID: +2
+operator: =
+ID: /8
+operator: +
+ID: _23
+punctuation: ;
+special symbol: ]
+label: pp11
+special symbol: ]

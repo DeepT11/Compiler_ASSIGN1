@@ -1,0 +1,64 @@
+label: pp1
+punctuation: :
+datatype : string
+ID: foo
+special symbol: (
+special symbol: )
+label: pp2
+punctuation: :
+special symbol: [
+label: pp3
+punctuation: :
+datatype : character_1
+ID: \1a
+punctuation: ;
+label: pp4
+punctuation: :
+datatype : string
+ID: #s
+operator: =
+punctuation: "
+punctuation: "
+punctuation: ;
+label: pp5
+punctuation: :
+reserved keyword: for
+punctuation: [
+ID: \1a
+operator: =
+punctuation: '
+constant: A
+punctuation: '
+punctuation: ;
+ID: \1a
+reserved keyword: lteq
+punctuation: '
+constant: Z
+punctuation: '
+punctuation: ;
+ID: \1a
+operator: =
+ID: \1a
+operator: +
+constant: 1
+special symbol: ]
+label: pp6
+punctuation: :
+special symbol: [
+label: pp7
+punctuation: :
+ID: #s
+operator: =
+ID: #s
+operator: +
+ID: \1a
+punctuation: ;
+label: pp8
+special symbol: ]
+label: pp9
+punctuation: :
+reserved keyword: return 
+ID: #s
+punctuation: ;
+label: pp10
+special symbol: ]

@@ -1,0 +1,17 @@
+  int foo()
+  {
+  int a1 , a2 , -a3 ;
+  char *1 , _24 ;
+  string s = "case 3\n";
+  while( -a3 > 0 )
+  {
+  if( a2 < a1 )
+    {
+  int x5 = a1 ;
+   a1 = a2 ;
+   a2 = x5 ; 
+  }
+   -a3 = -a3 + a1 * a2 ;
+  }
+  return -a3 ;
+  }

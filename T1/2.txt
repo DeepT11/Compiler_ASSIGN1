@@ -1,0 +1,10 @@
+pp1 : string foo()
+pp2 : [
+pp3 : character_1 \1a;
+pp4 : string #s = "" ;
+pp5 : for [ \1a = 'A' ; \1a lteq 'Z' ; \1a = \la + 1 ]
+pp6 : [
+pp7 :  #s = #s + \la ;
+pp8 : ]
+pp9 : return #s ;
+pp10 : ]

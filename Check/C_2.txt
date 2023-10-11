@@ -1,0 +1,8 @@
+string foo(){
+    char \1a;
+    string #s = "" ;
+    for( \1a  = 'A' ; \la <= 'Z' ; \la = \la + 1 ){
+        #s = #s + \la ;
+    } 
+    return #s;
+}

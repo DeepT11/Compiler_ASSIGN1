@@ -1,0 +1,17 @@
+pp1 : int foo()
+pp2 : [
+pp3 : integer_4 a1 , a2 , -a3 ;
+pp4 : character_1 *1 , _24 ;
+pp5 : string s = "case 3\n";
+pp6 : while [ -a3 gt 0 ]
+pp7 : [
+pp8 : in case that [ a2 lt a1 ]
+pp9 : [ do [
+pp10:  integer_4 x5 = a1 ;
+pp11:   a1 = a2 ;
+pp12 :  a2 = x5 ; ]
+pp13 : ]
+pp14 :  -a3 = -a3 + a1 * a2 ;
+pp15 : ]
+pp16 : return -a3 ;
+pp17 : ]
